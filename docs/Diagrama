@@ -1,0 +1,71 @@
+Introducción:
+	Qué es machine learning
+	Uso en neurociencias
+	
+	Que es droga psicoactiva
+	Criterios comunes diagnósito DSM
+	Prevalencia e incidencia abuso
+	Efectos Psicosociales
+	
+	Cocaina
+	Cannabis
+	Alcohol
+	Tabaco
+	Otros
+	Efectos Neurobiológicos
+	Posibles predictores derivados
+
+Datos:
+	Información del ENPreCoSP
+	N° muestra y features
+	Diseño y muestreo
+	Validez
+		
+Preprocesamiento:
+	Análisis Exploratorio y Estadístico
+	Limpieza de datos
+	Reducción de dimensionalidad
+	Modelos lineales generalizados
+
+Criterio de classificación:
+	Armado del Target
+
+Modelado:
+	Selección del modelo (XGBoost)
+	Tuneo de hiperparámetros
+	Métricas de performance
+
+
+Conclusiones:
+	Evaluación del modelo
+	Posible impacto
+	Pasos a seguir
+
+posibles predictores derivados (intro)
+
+
+
+Kaplan Comprehensive 1921
+kaplan synopsis 584
+
+
+
+Schultes, R. E., & Hofmann, A. (1987). Plants of the Gods: Origins of Hallucinogenic Use (Edición: Reprint). New York: Vanderbilt Univ Dept of.
+
+Preller, K. H., & Vollenweider, F. X. (2016). Phenomenology, Structure, and Dynamic of Psychedelic States. Current Topics in Behavioral Neurosciences. https://doi.org/10.1007/7854_2016_459
+
+Vollenweider, F. X., & Geyer, M. A. (2001). A systems model of altered consciousness: integrating natural and drug-induced psychoses. Brain Research Bulletin, 56(5), 495-507.
+
+Nichols, D. E. (2004). Hallucinogens. Pharmacology & Therapeutics, 101(2), 131-181. https://doi.org/10.1016/j.pharmthera.2003.11.002
+
+Nichols, D. E. (2016). Psychedelics. Pharmacological Reviews, 68(2), 264-355. https://doi.org/10.1124/pr.115.011478
+
+Carhart-Harris, R. L., Leech, R., Hellyer, P. J., Shanahan, M., Feilding, A., Tagliazucchi, E., … Nutt, D. (2014). The entropic brain: a theory of conscious states informed by neuroimaging research with psychedelic drugs. Frontiers in Human Neuroscience, 8. https://doi.org/10.3389/fnhum.2014.00020
+
+
+
+
+
+
+
+
