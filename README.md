@@ -1,1 +1,3 @@
 Code and manuscript for Automatic Prediction of Substance Abuse in Argentina (will change to "Screening for potential substance abuse in Argentina using supervised learning")
+
+El consumo problematico de sustancias es una de los desafios sanitarios del siglo XXI. Utilizando modelos de aprendizaje supervisado de estado del arte es posible predecir si una persona presenta un consumo problematico de sustancias logrando de esta forma generar alternativas para el diagnostico que sean rapidas, baratas y eficaces. Logramos un modelo que alcanzo una precision predictiva del 90% y que tambien otorga indicios acerca de las variables mas importantes para evaluar el consumo problematico de drogas
